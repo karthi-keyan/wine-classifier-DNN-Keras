@@ -14,13 +14,9 @@ found in each of the three types of wines.
 7) Flavanoids
 8) Nonflavanoid phenols
 9) Proanthocyanins
-
 10)Color intensity
-
 11)Hue
-
 12)OD280/OD315 of diluted wines
-
 13)Proline
 
 I used different config in DNN by adding and removing dropouts,increasing and decreasing learning rate,changing activation function and changing optimizers.
